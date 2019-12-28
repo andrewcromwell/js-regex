@@ -16,8 +16,16 @@ The goal of the regex is to help filter (i.e. remove) records which are:
 ## How do I run these tests?
 
 If you have NPM installed, just run:
+
 ```
 npm test
+```
+
+## That didn't work
+Try running:
+
+```
+npm install
 ```
 
 ## Where can I find this wonderful regex?
